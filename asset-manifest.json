@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Jorge-Alexis96/TareaReact2/static/js/main.90b52345.chunk.js",
+    "main.js.map": "/Jorge-Alexis96/TareaReact2/static/js/main.90b52345.chunk.js.map",
+    "runtime-main.js": "/Jorge-Alexis96/TareaReact2/static/js/runtime-main.0cdd3f57.js",
+    "runtime-main.js.map": "/Jorge-Alexis96/TareaReact2/static/js/runtime-main.0cdd3f57.js.map",
+    "static/js/2.1eee867a.chunk.js": "/Jorge-Alexis96/TareaReact2/static/js/2.1eee867a.chunk.js",
+    "static/js/2.1eee867a.chunk.js.map": "/Jorge-Alexis96/TareaReact2/static/js/2.1eee867a.chunk.js.map",
+    "index.html": "/Jorge-Alexis96/TareaReact2/index.html",
+    "precache-manifest.3c8a5bbeed6e6287ab9ff6f076b7ee59.js": "/Jorge-Alexis96/TareaReact2/precache-manifest.3c8a5bbeed6e6287ab9ff6f076b7ee59.js",
+    "service-worker.js": "/Jorge-Alexis96/TareaReact2/service-worker.js",
+    "static/js/2.1eee867a.chunk.js.LICENSE.txt": "/Jorge-Alexis96/TareaReact2/static/js/2.1eee867a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cdd3f57.js",
+    "static/js/2.1eee867a.chunk.js",
+    "static/js/main.90b52345.chunk.js"
+  ]
+}
